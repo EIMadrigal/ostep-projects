@@ -135,7 +135,7 @@ usage () {
 #
 # main program
 #
-verbose=0
+verbose=1
 testdir="tests"
 contrunning=0
 skippre=0
